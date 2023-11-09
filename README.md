@@ -1,7 +1,12 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-bits&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-bits&hide=html&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anand-bits)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anand-bits/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=convoychat" />
+</a>
 
 <!--
 **anand-bits/anand-bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
