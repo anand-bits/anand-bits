@@ -4,8 +4,8 @@
 <a href="https://github.com/anand-bits/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anand-bits/anand-bits">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=anand-bits" />
+<a href="https://github.com/anand-bits/BookReader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=BookReader" />
 </a>
 
 <!--
