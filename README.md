@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Anand
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-bits&show_icons=true&theme=radical)
+
 
 ## 🚀 About Me
 I'm a passionate developer who loves to explore new technologies and build cool projects. Currently, I'm working on projects that challenge and enhance my skills.
@@ -8,8 +8,8 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 ## 🌱 I’m currently learning
 
 - Docker for containerization. ![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png)
-- - Artificial Intelligence. ![AI Logo](https://www.pngkey.com/png/full/190-1901432_artificial-intelligence-logo.png)
-- - Cloud Technologies for scalable applications.
+- Artificial Intelligence. ![AI Logo](https://www.pngkey.com/png/full/190-1901432_artificial-intelligence-logo.png)
+ - Cloud Technologies for scalable applications.
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,16 +32,7 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-bits&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📚 Featured Repositories
-<a href="https://github.com/anand-bits/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anand-bits/BookReader">
-
-[![BookReader](https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=BookReader)](https://github.com/anand-bits/BookReader)
-
-</a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-bits&show_icons=true&theme=radical)
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
