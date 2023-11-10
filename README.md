@@ -38,6 +38,12 @@ I'm a dynamic and innovative developer on a journey to master the art of coding.
   - Tech Stack: Java, Firebase
   - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+    
+  - **[DecisionTree Regression with Random Forest on Boston Dataset](https://github.com/anand-bits/DecisionTree-Regression-with-Random-Forest-on-Boston-Dataset) (Machine Learning Model)**
+  - Tech Stack: Decision Tree Regression, Random Forest
+  - ![Decision Tree](https://img.shields.io/badge/Decision%20Tree%20Regression-5C832F?style=flat&logo=python&logoColor=white)
+  - ![Random Forest](https://img.shields.io/badge/Random%20Forest-4E8C52?style=flat&logo=python&logoColor=white)
+
 
 - **[Pubg Game Prediction](https://github.com/anand-bits/Pubg_Game-Prediction-) (Machine Learning Application)**
   - Tech Stack: CatBoost
