@@ -37,7 +37,9 @@ I'm a passionate developer who loves to explore new technologies and build cool 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anand-bits/BookReader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=BookReader" />
+
+[![BookReader](https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=BookReader)](https://github.com/anand-bits/BookReader)
+
 </a>
 
 ## 📫 Connect with Me
