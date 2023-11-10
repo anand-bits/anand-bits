@@ -82,8 +82,9 @@ I'm a dynamic and innovative developer on a journey to master the art of coding.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-bits&show_icons=true&theme=radical)
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-kumar-85b300249)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:h20220277@pilani.bits-pilani.ac.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://your-portfolio-link.com)
+
 
 <!-- Feel free to add more sections or customize as per your preference -->
 
