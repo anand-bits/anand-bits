@@ -13,6 +13,13 @@ I'm a dynamic and innovative developer on a journey to master the art of coding.
 - Artificial Intelligence.
  - Cloud Technologies for scalable applications.
 
+## 🚀 Coding Journey
+
+Welcome to my coding journey! I'm passionate about solving challenging problems and exploring the world of algorithms and data structures. You can follow my coding adventures on GeeksForGeeks, where I regularly contribute and share my solutions.
+
+🌐 **GeeksForGeeks Profile**: [Check out my GeeksForGeeks profile](https://auth.geeksforgeeks.org/user/anandtiwari840972) 
+
+
 ## 🌐 Project Highlights
 - **[Learning Management System](https://github.com/anand-bits/Learning-Management-System) (Full Stack Project)**
   - Tech Stack: Node.js, Express, MongoDB, React
