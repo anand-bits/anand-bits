@@ -3,13 +3,21 @@
 
 
 ## 🚀 About Me
-I'm a passionate developer who loves to explore new technologies and build cool projects. Currently, I'm working on projects that challenge and enhance my skills.
+I'm a dynamic and innovative developer on a journey to master the art of coding. My academic journey has led me to pursue Computer Science at Bits Pilani, where I continually strive for excellence.
 
 ## 🌱 I’m currently learning
 
-- Docker for containerization. ![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png)
-- Artificial Intelligence. ![AI Logo](https://www.pngkey.com/png/full/190-1901432_artificial-intelligence-logo.png)
+- Docker for containerization.
+- Artificial Intelligence.
  - Cloud Technologies for scalable applications.
+
+### 🌐 Project Highlights
+- [Learning Management System](https://github.com/anand-bits/Learning-Management-System): A comprehensive platform for effective online learning.
+- [Authentication in Express](https://github.com/anand-bits/Authentication-In-Express): Securing applications with authentication in Express.js.
+- [BookReader](https://github.com/anand-bits/BookReader): A delightful Android app for reading and managing your favorite books.
+- [Chat Application](https://github.com/anand-bits/ChatApplication): Real-time communication made easy with this chat application.
+- [Pubg Game Prediction](https://github.com/anand-bits/Pubg_Game-Prediction-): Leveraging data science to predict outcomes in PUBG games.
+
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
