@@ -58,6 +58,17 @@ Welcome to my coding journey! I'm passionate about solving challenging problems 
   - Tech Stack: CatBoost
   - ![CatBoost](https://img.shields.io/badge/CatBoost-FFA000?style=flat&logo=catboost&logoColor=white)
 
+ ## 🤖 AI & Machine Learning Projects
+
+Explore my collection of AI and Machine Learning projects where I dive into cutting-edge technologies and algorithms to solve real-world problems.
+
+- **[AI/ML Learning Project](https://github.com/anand-bits/AI_ML_learning_project)**
+  - Tech Stack: OpenCV, YOLO (You Only Look Once), ANN (Artificial Neural Networks), CNN (Convolutional Neural Networks)
+  - Description: A comprehensive AI project showcasing the implementation of OpenCV along with YOLO, ANN, and CNN for various applications. Dive into the world of computer vision and machine learning with this project.
+
+<!-- Add more AI and ML projects as needed -->
+
+
 
 
 ## 🔧 Technologies & Tools
