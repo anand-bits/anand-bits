@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anand-bits/BookReader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=BookReader" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-bits&repo=BookReader-readme" />
 </a>
 
 <!--
