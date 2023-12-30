@@ -105,7 +105,7 @@ Explore my collection of AI and Machine Learning projects where I dive into cutt
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=anand-bits)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-bits&show_icons=true&theme=radical)
 ## 📫 Connect with Me
