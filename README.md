@@ -1,9 +1,8 @@
 # Hi there! 👋 I'm Anand
 
-<div align="center">
-  ![Hacker GIF](https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
-</div>
-
+<p align="center">
+  <img alt="Hacker GIF" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
+</p>
 
 
 ## 🚀 About Me
