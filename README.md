@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Anand
 
+![Alt Text](https://images.app.goo.gl/LMu6V7xsGhgrqsBC6)
 
-![Destroy Code GIF](https://tenor.com/en-IN/view/destroy-code-mad-angry-computer-not-found-gif-17488974)
 
 
 
