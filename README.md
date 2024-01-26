@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anand
+# Hi ! 👋 I'm Anand
 
 <p align="center">
   <img alt="Hacker GIF" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
